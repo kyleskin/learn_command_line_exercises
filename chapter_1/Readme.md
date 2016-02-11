@@ -1,4 +1,3 @@
-
 | Command|What it does|
 |: ------------- :|:-------------:|
 | pwd | print working directory|
