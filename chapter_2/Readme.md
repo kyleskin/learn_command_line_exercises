@@ -9,19 +9,27 @@ I typed `pwd` 60 times, while saying "print working directory" as my wife looked
    ```
    
 ##Alternative English Questions
+
 ###1. What directory are you in?
+
   ```Kyles-MacBook-Air:chapter_2 $ pwd
      /Users/skinner/workspace/davinci_coders_t1_2016/homework/learn_command_line_exercises/chapter_2
      ```
+
 ###2. Are you in the class directory?
+
   ```Kyles-MacBook-Air:davinci_coders_t1_2016 $ pwd
     /Users/skinner/workspace/davinci_coders_t1_2016
      ```
+
 ###3. Are you in your home directory?
+
   ```Kyles-MacBook-Air:~ $ pwd
      /Users/skinner
      ```
+
 ###4. What directory did you run that command in?
+
   ```Kyles-MacBook-Air:practice $ pwd
      /Users/skinner/workspace/davinci_coders_t1_2016/practice
      ```
