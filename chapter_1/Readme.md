@@ -1,3 +1,4 @@
+#Chapter 1: Commands
 | Command|What it does|
 |:-------------:|:-------------:|
 | pwd | print working directory|
