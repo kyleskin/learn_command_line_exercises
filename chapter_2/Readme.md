@@ -4,6 +4,7 @@ In order to know what directory you're currently in, use the `pwd` command.
 ##Do More
 ###Type pwd 60 times while saying "print working directory" each time.
 I typed `pwd` 60 times, while saying "print working directory" as my wife looked at me as if I'd lost my mind.
+
 ```Kyles-MacBook-Air:chapter_2 $ pwd
    /Users/skinner/workspace/davinci_coders_t1_2016/homework/learn_command_line_exercises/chapter_2
    ```
