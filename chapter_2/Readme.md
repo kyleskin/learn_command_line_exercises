@@ -1,4 +1,4 @@
-#Chapter 2:PWD - Print Working Directory
+#Chapter 2: PWD - Print Working Directory
 In order to know what directory you're currently in, use the `pwd` command.
 
 ##Do More
