@@ -10,6 +10,7 @@ I typed it and said it, but luckily my wife had gone to bed at this point so she
   ```Kyles-MacBook-Air:chapter_3 $ hostname``` 
    ```Kyles-MacBook-Air.local```
    
+
 ###2. Are you on your local machine?
   ```Kyles-MacBook-Air:chapter_3 $ hostname``` 
      ```Kyles-MacBook-Air.local```
