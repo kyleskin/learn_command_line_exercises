@@ -23,4 +23,4 @@ I created a directory called ***I love coding*** inside the temp directory.
 `Kyles-MacBook-air:workspace $ mkdir temp`
 
 ###2. Can you make a log directory in your class directory?
-`Kyles-MacBook-Air:davinci_coders_t1_2016 $ mkdir log`
+`Kyles-MacBook-Air:~ $ mkdir ~/workspace/davinci_coders_t1_2016/log`
