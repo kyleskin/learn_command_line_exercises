@@ -1,4 +1,4 @@
-#Chatper 3: Hostname - Print Your Computer's Hostname
+#Chapter 3: Hostname - Print Your Computer's Hostname
 To see your computer's hostname, type the command `hostname`
 
 ##Do More
