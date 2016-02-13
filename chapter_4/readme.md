@@ -14,6 +14,7 @@ I created a directory called ***I love coding*** inside the temp directory.
 
 ###If the temp directory already exists then you'll get an error. Use cd to change to a work directory that you can control and try it there.
 `Kyles-MacBook-Air:temp $ mkdir stuff`
+
 `mkdir: stuff: File exists`
 
 
