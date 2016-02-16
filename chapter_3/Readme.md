@@ -17,5 +17,5 @@ Kyles-MacBook-Air.local
 Kyles-MacBook-Air:chapter_3 $ hostname 
 Kyles-MacBook-Air.local
 ```
-     Sure am.
+Sure am.
 
