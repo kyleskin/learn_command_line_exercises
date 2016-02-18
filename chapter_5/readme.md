@@ -57,7 +57,7 @@ To do this with the command line, I type the following:
 `Kyles-MacBook-Air:tmp $`
 
 ###4. Can you go to the slash temp slash log directory?
-`Kyles-MacBook-Air:~ $ cd /temp/log`
+`Kyles-MacBook-Air:~ $ cd /tmp/log`
 
 `Kyles-MacBook-Air:log $`
 
