@@ -38,4 +38,5 @@ Kyle:chapter_14 $ rm development.log
 Kyle:chapter_14 $ rm -r tmp/foo
 ```
 
-
+###4. Why is it dangerous to run "rm -rf /"?
+This tells the computer to delete EVERYTHING starting at the root directory - erasing your entire computer.
