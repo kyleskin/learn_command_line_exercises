@@ -10,37 +10,10 @@
 `SHELL`: Describes the shell that will be used
 `TERM`: Specifies the type of terminal to emulate when running the shell
 `CLICOLOR`: Defines color codes to be used
-`IRBRC`
-`TMPDIR`
-`Apple_PubSub_Socket_Render`
-`OLDPWD`
-`MY_RUBY_HOME`
-`USER`
-`_system_type`
-`rvm_path`
-`SSH_AUTH_SOCK`
-`__CF_USER_TEXT_ENCODING`
-`rvm_prefix`
-`PATH`
-`PWD`
-`LANG`
-`ITERM_PROFILE`
-`_system_arch`
-`XPC_FLAGS`
-`_system_version`
-`XPC_SERVICE_NAME`
-`rvm_version`
-`SHLVL`
-`COLORFGBG`
-`HOME`
-`ITERM_SESSION_ID`
-`LOGNAME`
-`GEM_PATH`
+`TMPDIR`: If set, Bash uses its value as the name of a directory in which Bash creates temporary files for the shell’s use.
+`PWD`: Current working directory
+`HOME`: Current user's home directory
 `RUBY_VERSION`: the version of Ruby being run
-`_system_name`: 
-`BASH_FUNC_parse_git_pair%%`
-`BASH_FUNC_parse_git_branch%%`
-`_`
 
 
 ###Read the man page for env again. What else can it do?
