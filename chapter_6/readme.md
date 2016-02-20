@@ -3,7 +3,7 @@ Use `ls` to list the items inside a directory.
 
 ##Do More
 ###Describe what ls -lR does.
-Typing `ls -lR` lists the contents for the rest of the directory tree.
+Typing `ls -lR` lists the contents for the rest of the directory tree and displays the read/write authority of the different users.
 
 
 ```
