@@ -17,6 +17,6 @@ bar.txt  ex12.txt ex13.txt ex15.txt foo.txt
 ###2. Show me the content of the text files in slash temp.
 ```
 (master) Kyle Skinner
-Kyle:chapter_16 $ cat tmp/*.txt
+Kyle:chapter_16 $ cat /tmp/*.txt
 ```
 
