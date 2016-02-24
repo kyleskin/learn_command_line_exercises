@@ -35,7 +35,7 @@ Kyle:chapter_14 $ rm development.log
 ###3. Can you remove everything in the slash temp slash foo directory?
 ```
 (master) Kyle Skinner
-Kyle:chapter_14 $ rm -r tmp/foo
+Kyle:chapter_14 $ rm -r /tmp/foo
 ```
 
 ###4. Why is it dangerous to run "rm -rf /"?
