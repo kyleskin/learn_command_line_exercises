@@ -46,7 +46,7 @@ Kyle:chapter_17 $ cat video_list.txt
 ###1. Can you show me all the files in slash temp slash foo?
 ```
 (master) Kyle Skinner
-Kyle:chapter_17 $ find temp/foo/ -print
+Kyle:chapter_17 $ find /temp/foo/ -print
 ```
 
 ###2. What log files are in your log directory?
