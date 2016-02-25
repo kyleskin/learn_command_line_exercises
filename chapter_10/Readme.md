@@ -37,7 +37,7 @@ This is done very easily by open a new finder window and following my directory 
 Kyle:chapter_10 $ echo "Foobar" > foo.txt
 
 (master) Kyle Skinner
-Kyle:chapter_10 $ cp foo.txt tmp/
+Kyle:chapter_10 $ cp foo.txt /tmp/
 
 (master) Kyle Skinner
 Kyle:chapter_10 $ ls tmp
