@@ -1,4 +1,4 @@
-#Chapter 21: EXPORT - Changing Environment Variables
+#Chapter 22: EXPORT - Changing Environment Variables
 `export` is used to change a variable in your environment
 
 ##Do More
