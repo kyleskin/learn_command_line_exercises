@@ -27,11 +27,9 @@ SHELL=/bin/bash
 ###2. What directory are you in (don't use pwd this time)?
 ```
 (master) Kyle Skinner
-Kyle:chapter_21 $ env | grep -i path
-rvm_bin_path=/Users/skinner/.rvm/bin
-rvm_path=/Users/skinner/.rvm
-PATH=/Users/skinner/.rvm/gems/ruby-2.2.3/bin:/Users/skinner/.rvm/gems/ruby-2.2.3@global/bin:/Users/skinner/.rvm/rubies/ruby-2.2.3/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/skinner/.rvm/bin:/Users/skinner/opt/bin:/Users/skinner/dev/bin
-GEM_PATH=/Users/skinner/.rvm/gems/ruby-2.2.3:/Users/skinner/.rvm/gems/ruby-2.2.3@global
+Kyle:learn_command_line_exercises $ env | grep -i pwd
+OLDPWD=/Users/skinner/workspace/davinci_coders_t1_2016/homework
+PWD=/Users/skinner/workspace/davinci_coders_t1_2016/homework/learn_command_line_exercises
 ```
 
 ###3. What is your home directory set to?
